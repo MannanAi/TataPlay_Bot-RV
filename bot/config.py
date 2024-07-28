@@ -20,7 +20,7 @@ class TG_CONFIG:
 
     session = "maanripbot"
 
-    bot_creater = "mannanmayil"  # Don't Remove if you Respect the DEV
+    bot_creater = "mannan_mayil"  # Don't Remove if you Respect the DEV
 
     bot_creater_id = "@mannan_mayil"  # Don't Remove if you Respect the DEV
 
