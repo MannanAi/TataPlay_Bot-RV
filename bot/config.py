@@ -16,7 +16,7 @@ class TG_CONFIG:
     bot_token = "7239529923:AAFYmd4FRmVjpHmxo46Pq9wYw1m_7Idzjnw"
 
     #DEVS or #OWNERS
-    sudo_users = [1984763765, 6360672597]
+    sudo_users = [6060395231]
 
     session = "maanripbot"
 
